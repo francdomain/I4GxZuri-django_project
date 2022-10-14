@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'musicapp',
     # Third party
     'django_extensions',
+    'python-decouple',
 ]
 
 MIDDLEWARE = [
